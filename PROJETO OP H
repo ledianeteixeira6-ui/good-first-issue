@@ -1,0 +1,36 @@
+# HealthTrack 🏥
+
+HealthTrack é um sistema open source para **monitoramento de saúde de pacientes**, permitindo que médicos e profissionais da saúde acompanhem sinais vitais, histórico de consultas e alertas importantes.  
+
+Este projeto é ideal para hospitais, clínicas e desenvolvedores que queiram contribuir com soluções de saúde digital.
+
+---
+
+## Funcionalidades
+
+- Cadastro de pacientes (nome, idade, peso, altura, doenças pré-existentes)
+- Registro de sinais vitais (pressão arterial, frequência cardíaca, glicemia, saturação de oxigênio)
+- Histórico de consultas com observações médicas
+- Alertas automáticos quando algum indicador estiver fora do padrão
+- Dashboard com gráficos para acompanhamento da evolução do paciente
+- Sistema de autenticação seguro para médicos e enfermeiros
+
+---
+
+## Tecnologias Utilizadas
+
+- **Hospedagem:** Render / Heroku
+
+---
+
+## In*Frontend:** React.js  
+- **Backend:** Node.js + Express  
+- **Banco de dados:** PostgreSQL  
+- **Visualização de dados:** Chart.js  
+- *stalação
+
+### 1. Clonar o repositório
+```bash
+git clone https://github.com/seu-usuario/HealthTrack.git
+cd HealthTrack
+  
